@@ -24,6 +24,7 @@
     "vite": "^6.0.0"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3"
+    "gray-matter": "^4.0.3",
+    "pnpm": "^10.32.1"
   }
 }
